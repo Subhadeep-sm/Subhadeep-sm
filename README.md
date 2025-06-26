@@ -78,7 +78,22 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadeep-sm&show_icons=true&locale=en&layout=compact" alt="subhadeep-sm" /></p>
 
 
-### Connect with me:
+### LeetCode Stats :
+
+<div align="center">
+
+<a href="https://leetcode.com/subhadeep_mishra/"><img src="https://leetcard.jacoblin.cool/subhadeep_mishra?ext=contest">
+
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Subhadeep-sm&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+
+### 📫 Let's Connect:
 <div>
   
 <div>
@@ -95,10 +110,7 @@
 </div>
 
 
-## 📫 Let's Connect
 
-- [GitHub](https://github.com/Subhadeep-sm)
-<!-- Add your LinkedIn or Email if you wish -->
 
 ---
 
