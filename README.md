@@ -77,27 +77,25 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadeep-sm&show_icons=true&locale=en&layout=compact" alt="subhadeep-sm" /></p>
 
-## 📚 Projects
 
-### 💱 Currency Converter
-*Jan 2025 – Feb 2025 | React, ExchangeRate API*  
-A responsive web app for real-time currency conversion.  
-- Real-time conversion with swap feature for currency pairs  
-- Intuitive UI for seamless user experience
+### Connect with me:
+<div>
+  <div>
+<img align="right" height="200"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Ntc3J3ejBxbDk0M2hpdnM0c3E5dDhwMGt6bHA1Y2h2ZXFnZnV6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
+</div>
+<div>
+<a href="https://www.linkedin.com/in/subhadeep-mishra100" alt="Subha Deep Mishra | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+<a href="https://instagram.com/_.asymptote.__" alt="_.asymptote._ | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
+<a href="mailto:subhadeepmishra100@gmail.com" alt="subhadeepmishra100 | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"> 
 
-### 🏨 Hotel Management System
-*Mar 2025 – Apr 2025 | Java, MySQL, JDBC*  
-A Java console app for hotel room booking and customer management.  
-- MySQL integration for storing bookings, billing, and room details  
-- Features: Room-type booking, stay tracking, and automated billing
+<!-- 
+<a href="https://www.hackerrank.com/subhammaity6827" alt="Subham | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png">  
+<a href="https://www.quora.com/profile/Subham-Maity-26" alt="Subham | Quora"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-shadow-tal-revivo.png"/>
+<a href="https://auth.geeksforgeeks.org/user/subhammaz5u0/practice" alt="Subham | GeeksforGeeks"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/> -->
 
-### 🌿 Virtual Herbal Garden *(Ongoing)*
-*Apr 2025 – Present | React, Tailwind, Node, Sketchfab*  
-A web app to visualize a virtual 3D herbal garden.  
-- Explore 3D models of herbs and learn about their uses  
-- Search and filter herbs by name, category, or medicinal use
+</div>
+</div>
 
----
 
 ## 📫 Let's Connect
 
