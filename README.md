@@ -74,8 +74,9 @@
   <img src="./svgs/nvidiartx3050.jpg" alt="Fedora" style="vertical-align:top margin:6px 4px">
 </p>
 
-
+<div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadeep-sm&show_icons=true&locale=en&layout=compact" alt="subhadeep-sm" /></p>
+</div>
 
 
 ### LeetCode Stats :
