@@ -22,6 +22,19 @@
 
 # 🛠️ Technical Skills
 
+## Programming languages
+
+<p>
+  <img src="./svgs/html.svg" alt="Html" style="vertical-align:top margin:6px 4px">
+  <img src="./svgs/css3.svg" alt="Css3" style="vertical-align:top margin:6px 4px">
+  <img src="./svgs/js.svg" alt="JS" style="vertical-align:top margin:6px 4px">
+  <img src="./svgs/react.svg" alt="JS" style="vertical-align:top margin:6px 4px">
+  <img src="./svgs/c.svg" alt="C" style="vertical-align:top margin:6px 4px">
+  <img src="./svgs/c++.svg" alt="C++" style="vertical-align:top margin:6px 4px">
+  <img src="./svgs/java.svg" alt="Java" style="vertical-align:top margin:6px 4px">
+  <img src="./svgs/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
+
+</p>
 
 - **Languages:** C/C++, Python, JAVA
 - **Web Development:** HTML, CSS, JavaScript, React.js
