@@ -9,7 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=500&size=28&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer+🚀;Tech+Tinkerer+🔍;Problem+Solver+⚙️;Competitive+Coder+💡" alt="Typing SVG">
 </p>
 
-<img src="https://media.giphy.com/media/Mh9zHLBy4YLirzU25L/giphy.gif" alt="tistory" style="vertical-align:top; margin:4px" height="300">
+<div align="center">
+<img src="https://media.giphy.com/media/Mh9zHLBy4YLirzU25L/giphy.gif" alt="tistory" style="vertical-align:top; margin:4px;" height="300">
+</div>
 
 
 # 💡 About Me
@@ -56,14 +58,23 @@
  <img src="./svgs/powershell.svg" alt="Powershell" style="vertical-align:top margin:6px 4px">
 
 </p>
-- **Languages:** C/C++, Python, JAVA
-- **Web Development:** HTML, CSS, JavaScript, React.js
-- **Databases:** MySQL, MongoDB
-- **Developer Tools:** VS Code, Git, GitHub
-- **Coursework:** Data Structures, Algorithms, OOP, Operating Systems, SDLC
-- **Soft Skills:** Problem Solving, Leadership, Interpersonal Skills, Decision Making
 
----
+## Databases
+
+<p>
+  <img src="./svgs/hibernate.svg" alt="Hibernate" style="vertical-align:top margin:6px 4px">
+  <img src="./svgs/mysql.svg" alt="MySQL" style="vertical-align:top margin:6px 4px">
+  
+</p>
+
+## OS
+<p>
+  <img src="./svgs/windows11.jpg" alt="Windows11" style="vertical-align:top margin:6px 4px">
+  <img src="./svgs/nvidiartx3050-1.jpg" alt="Ubuntu" style="vertical-align:top margin:6px 4px">
+  <img src="./svgs/nvidiartx3050.jpg" alt="Fedora" style="vertical-align:top margin:6px 4px">
+</p>
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadeep-sm&show_icons=true&locale=en&layout=compact" alt="subhadeep-sm" /></p>
 
 ## 📚 Projects
