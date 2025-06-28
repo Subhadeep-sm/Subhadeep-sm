@@ -75,7 +75,7 @@
 </p>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadeep-sm&show_icons=true&locale=en&layout=compact" alt="subhadeep-sm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadeep-sm&show_icons=true&locale=en&langs_count=8" alt="subhadeep-sm" /></p>
 </div>
 
 
